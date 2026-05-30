@@ -50,7 +50,7 @@ I'm currenlty working on myself.
 
 </td><td valign="top" width="33%">
 
-## 📊 Github Stats :
+## 📊 GitHub Stats :
 ![](https://streak-stats.demolab.com/?user=katoueizadeh&theme=shadow_blue&hide_border=false&border=808080&border_radius=0) <br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=katoueizadeh&theme=shadow_blue&hide_border=false&border_color=808080&border_radius=0&include_all_commits=false&count_private=false&layout=compact)
